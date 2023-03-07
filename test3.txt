@@ -1,1 +1,2 @@
 hello i am from feature 1 branch
+Hello I am line One from the feature3 branch. And i am editing this to test merge conflict
