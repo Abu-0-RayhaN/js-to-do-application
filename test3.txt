@@ -1,2 +1,4 @@
 hello i am from feature 1 branch
+
 Hello I am from the main branch. And i am creating conflict with the update of feature3 branch.
+
